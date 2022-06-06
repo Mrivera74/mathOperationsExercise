@@ -1,0 +1,15 @@
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.csproj.AssemblyReference.cache
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.AssemblyInfoInputs.cache
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.AssemblyInfo.cs
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.csproj.CoreCompileInputs.cache
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\bin\Debug\net6.0\mathOperationsExercise.exe
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\bin\Debug\net6.0\mathOperationsExercise.deps.json
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\bin\Debug\net6.0\mathOperationsExercise.runtimeconfig.json
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\bin\Debug\net6.0\mathOperationsExercise.dll
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\bin\Debug\net6.0\mathOperationsExercise.pdb
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.dll
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\refint\mathOperationsExercise.dll
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.pdb
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\mathOperationsExercise.genruntimeconfig.cache
+C:\Users\mrive\repos\mathOperationsExercise\mathOperationsExercise\obj\Debug\net6.0\ref\mathOperationsExercise.dll

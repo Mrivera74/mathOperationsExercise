@@ -1,8 +1,16 @@
-﻿using System;
+﻿using System; 
 
-namespace mathOperations
+namespace mathOperationExercise
 {
-    public static int Add(int num1, int num2)
+    class program
     {
-        return num1 + num2;
+        static void Main (string [] args)
+        {
+            Console.WriteLine("Enter number");
+           int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(num1 * num2);     
+        }
     }
+}
