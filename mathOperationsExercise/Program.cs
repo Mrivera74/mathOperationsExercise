@@ -16,7 +16,7 @@ namespace mathOperationExercise
             int quotient = Quotient (D,V);
             Console.WriteLine($"{17}/{4}={quotient} R {module}");
 
-            double pi = 3.14;
+            double pi = 3.141592;
 
             Console.WriteLine("Enter Raduis");
             double R = double.Parse (Console.ReadLine());
